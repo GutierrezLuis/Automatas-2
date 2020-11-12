@@ -1,1 +1,0 @@
-# Automatas-2
